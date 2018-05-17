@@ -46,11 +46,15 @@ The fragment itself is :
 	
 The code is purely assembly :
 
-	- some tricks find from molten core 1k [Molten core on pouet](http://www.pouet.net/prod.php?which=64235)
-	
+	- some tricks find from molten core 1k	
 	- some tweaks from me ... because i can't pass time through the "color trick"
 	- shrink code in the fragment is done with "classical" #define and function with short name ;-) (yes one letter is short)
-	- to shrink everything, i use the mighty Crinkler [Crinkler website](http://www.crinkler.net/)
+	- to shrink everything, i use the mighty Crinkler 
+	
+Links :
+
+[Molten core on Pouet](http://www.pouet.net/prod.php?which=64235)
+[Crinkler website](http://www.crinkler.net/)
 	
 The result is weird sometimes ... i mean, i played so much with the fragment shader to gain bytes,
 i can't even read the code by now ! ouch ...

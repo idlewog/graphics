@@ -1,0 +1,103 @@
+﻿  Crinkler 2.0 (Jul 28 2015) (c) 2005-2015 Aske Simon Christensen & Rune Stubbe
+  
+  Ignoring unknown argument '/ERRORREPORT:PROMPT'
+  Ignoring unknown argument '/INCREMENTAL'
+  Ignoring unknown argument '/NOLOGO'
+  Ignoring unknown argument '/NODEFAULTLIB'
+  Ignoring unknown argument '/MANIFEST:NO'
+  Ignoring unknown argument '/PDB:C:\Users\JC Roiron\Documents\Visual Studio 2015\Projects\tiny-as\Release\tiny-as.pdb'
+  Ignoring unknown argument '/OPT:REF'
+  Ignoring unknown argument '/OPT:ICF'
+  Ignoring unknown argument '/TLBID:1'
+  Ignoring unknown argument '/DYNAMICBASE'
+  Ignoring unknown argument '/NXCOMPAT'
+  Ignoring unknown argument '/IMPLIB:C:\Users\JC Roiron\Documents\Visual Studio 2015\Projects\tiny-as\Release\tiny-as.lib'
+  Ignoring unknown argument '/MACHINE:X86'
+  Ignoring unknown argument '/SAFESEH'
+  Target: C:\Users\JC Roiron\Documents\Visual Studio 2015\Projects\tiny-as\Release\tiny-as.exe
+  Tiny compressor: NO
+  Tiny import: NO
+  Subsystem type: WINDOWS
+  Large address aware: NO
+  Compression mode: SLOW
+  Saturate counters: NO
+  Hash size: 300 MB
+  Hash tries: 300
+  Order tries: 4000
+  Report: CrinklerReport.html
+  Transforms: NONE
+  Replace DLLs: NONE
+  Fallback DLLs: NONE
+  Range DLLs: NONE
+  Exports: NONE
+  
+  Loading opengl32.lib...
+  Loading winmm.lib...
+  Loading kernel32.lib...
+  Loading user32.lib...
+  Loading gdi32.lib...
+  Loading winspool.lib...
+  Loading comdlg32.lib...
+  Loading advapi32.lib...
+  Loading shell32.lib...
+  Loading ole32.lib...
+  Loading oleaut32.lib...
+  Loading uuid.lib...
+  Loading odbc32.lib...
+  Loading odbccp32.lib...
+  Loading kernel32.lib...
+  Loading user32.lib...
+  Loading gdi32.lib...
+  Loading winspool.lib...
+  Loading comdlg32.lib...
+  Loading advapi32.lib...
+  Loading shell32.lib...
+  Loading ole32.lib...
+  Loading oleaut32.lib...
+  Loading uuid.lib...
+  Loading odbc32.lib...
+  Loading odbccp32.lib...
+  Loading Release\core.obj...
+  
+  Linking...
+  
+  Forced alignment of 1 code hunk to 1 (including entry point).
+  
+  Uncompressed size of code:   413
+  Uncompressed size of data:  1613
+  
+  |-- Estimating models for code ----------------------------|
+  ............................................................   0m00s
+  Ideal compressed size: 239.83
+  
+  |-- Estimating models for data ----------------------------|
+  ............................................................   0m02s
+  Ideal compressed size: 763.07
+  
+  Estimated ideal compressed total size: 1002.90
+  
+  
+  Reordering sections...
+    Iteration:     0  Code: 239.83  Data: 763.06  Size: 1002.89
+  Time spent: 0m22s
+  
+  |-- Reestimating models for code --------------------------|
+  ............................................................   0m01s
+  Ideal compressed size: 239.83
+  
+  |-- Reestimating models for data --------------------------|
+  ............................................................   0m03s
+  Ideal compressed size: 763.06
+  
+  Reestimated ideal compressed total size: 1002.89
+  
+  |-- Optimizing hash table size ----------------------------|
+  ............................................................   0m03s
+  Real compressed total size: 1003
+  Bytes lost to hashing: 0.11
+  
+  Output file: C:\Users\JC Roiron\Documents\Visual Studio 2015\Projects\tiny-as\Release\tiny-as.exe
+  Final file size: 1339 (no change)
+  
+  time spent: 0m36s
+  tiny-as.vcxproj -> C:\Users\JC Roiron\Documents\Visual Studio 2015\Projects\tiny-as\Release\tiny-as.exe

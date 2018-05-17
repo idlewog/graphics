@@ -17,10 +17,15 @@ The main one is the incredible shadertoy ! [Shader Toy](https://www.shadertoy.co
 Second, ALL the precious tutorial from inigo
 Inigo Quilez is my GOD ! [Inigo web site](http://www.iquilezles.org/apps/index.htm)
 
-and some google find : 
+and some google find :
+
 1 - [Jamie Wong](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/)
-2 - [9bitscience] (http://9bitscience.blogspot.fr/2013/07/raymarching-distance-fields_14.html)
-3 - the lib from mercury group : [Mercury] (http://mercury.sexy/hg_sdf/)
+
+
+2 - [9bitscience](http://9bitscience.blogspot.fr/2013/07/raymarching-distance-fields_14.html)
+
+
+3 - the lib from mercury group : [Mercury](http://mercury.sexy/hg_sdf/)
 
 oh find a new one ...
 
@@ -40,6 +45,8 @@ The fragment itself is :
 	
 The code is purely assembly..
 	- some tricks find from molten core 1k [Molten core on pouet](http://www.pouet.net/prod.php?which=64235)
+	
+	
 	- some tweaks from me ... because i can't pass time through the "color trick"
 	- shrink code in the fragment is done with "classical" #define and function with short name ;-) (yes one letter is short)
 	- to shrink everything, i use the mighty Crinkler [Crinkler website](http://www.crinkler.net/)

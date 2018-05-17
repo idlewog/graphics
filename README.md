@@ -14,7 +14,7 @@ I tried to shrink my code to 1K... but i can't get over 1.3 K damn it !
 It's a pure fragment shader, build from different source.
 The main one is the incredible shadertoy ! [Shader Toy](https://www.shadertoy.com/)
 
-Second, ALL the precious tutorial from inigo
+Second, ALL the precious tutorial from
 Inigo Quilez is my GOD ! [Inigo web site](http://www.iquilezles.org/apps/index.htm)
 
 and some google find :
@@ -39,13 +39,14 @@ There is an enhanced version out there one the web ... but the link is dead ...
 
 
 The fragment itself is :
+
 	- an "infinite" torus done with SDF function an modulo operation
 	- two different sources of light
 	- shadow done "for free" during the ray marching process
 	
-The code is purely assembly..
+The code is purely assembly :
+
 	- some tricks find from molten core 1k [Molten core on pouet](http://www.pouet.net/prod.php?which=64235)
-	
 	
 	- some tweaks from me ... because i can't pass time through the "color trick"
 	- shrink code in the fragment is done with "classical" #define and function with short name ;-) (yes one letter is short)
